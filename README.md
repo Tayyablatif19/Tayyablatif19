@@ -6,6 +6,12 @@ From HTML & CSS to modern React, I’ve built up my skills through hands-on proj
 Right now, I’m diving deep into **Next.js** to take my React skills to the next level.
 
 ---
+## 📫 Connect with Me
+<p>
+  <a href="https://github.com/Tayyablatif19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-tayyab-latif-19a3131b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:mlatif.bee21seecs@seecs.edu.pk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ## 🛠 Skills & Tools
 <p>
@@ -36,21 +42,13 @@ Right now, I’m diving deep into **Next.js** to take my React skills to the nex
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tayyablatif19&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tayyablatif19&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
-<p>
-  <a href="https://github.com/Tayyablatif19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-tayyab-latif-19a3131b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:mlatif.bee21seecs@seecs.edu.pk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
