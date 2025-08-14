@@ -37,8 +37,8 @@ Right now, I’m diving deep into **Next.js** to take my React skills to the nex
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tayyablatif19&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tayyablatif19&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
@@ -52,4 +52,4 @@ Right now, I’m diving deep into **Next.js** to take my React skills to the nex
 
 ---
 
-⭐️ From [Tayyab](https://github.com/YourUsername)
+⭐️ From [Tayyab](https://github.com/Tayyablatif19)
