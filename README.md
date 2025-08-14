@@ -6,12 +6,19 @@ From HTML & CSS to modern React, I’ve built up my skills through hands-on proj
 Right now, I’m diving deep into **Next.js** to take my React skills to the next level.
 
 ---
+
+
+
 ## 📫 Connect with Me
 <p>
   <a href="https://github.com/Tayyablatif19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/muhammad-tayyab-latif-19a3131b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:mlatif.bee21seecs@seecs.edu.pk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+
+---
+
 
 ## 🛠 Skills & Tools
 <p>
@@ -34,12 +41,17 @@ Right now, I’m diving deep into **Next.js** to take my React skills to the nex
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
 </p>
 
+
+
+
 ---
 
 ## 📌 Featured Projects
 - 🚗 **University Carpool Website** – Ride sharing platform for university students
 
 ---
+
+
 
 ## 📊 GitHub Stats
 
@@ -49,7 +61,5 @@ Right now, I’m diving deep into **Next.js** to take my React skills to the nex
 
 ---
 
-
----
 
 ⭐️ From [Tayyab](https://github.com/Tayyablatif19)
