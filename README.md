@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Tayyab Latif
+# 👋 Hey, I'm Tayyab
 
 
 I’m a web developer who enjoys turning ideas into clean, functional, and user-friendly experiences.  
