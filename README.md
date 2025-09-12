@@ -1,9 +1,6 @@
 # 👋 Hey, I'm Tayyab Latif
 
 
-I’m a web developer who enjoys turning ideas into clean, functional, and user-friendly experiences.  
-From HTML & CSS to modern React, I’ve built up my skills through hands-on projects and a lot of debugging (the best teacher out there).  
-Right now, I’m diving deep into **Next.js** to take my React skills to the next level.
 
 ---
 
